@@ -1,0 +1,36 @@
+h1{
+    font-size: 50px;
+}
+.name{
+    color:peru;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;   
+}
+.half-width img{
+    width: 100%;
+}
+.link{
+    color:whitesmoke;
+    text-decoration: none;
+    background-color: peru;
+    padding: 10px 20px;
+    border-radius: 15px;
+    font-weight: 900;
+    background-image: -moz-linear-gradient(20deg, lightSalmon, tomato);
+}
+.part-One{
+    height: 500px;
+    padding-bottom: 200px;
+}
+.part-two{
+    height: 500px;
+    padding-bottom: 250px;
+}
+
+
+
+
